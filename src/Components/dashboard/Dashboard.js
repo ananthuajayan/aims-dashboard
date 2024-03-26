@@ -61,7 +61,7 @@ const Dashboard = () => {
         </div>
         <div className='export-button'>
           <h4>Export</h4>
-          <i className="fas fa-download"></i>
+          <i className="fas fa-upload"></i>
         </div>
       </div>
       <Table striped bordered hover variant="light">

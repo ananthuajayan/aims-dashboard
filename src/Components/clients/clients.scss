@@ -1,0 +1,25 @@
+.sub-head{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px 10px 20px;
+    align-items: center;
+    .head-icons{
+        display: flex;
+        gap: 20px;
+    }
+    button{
+        background: #70707D;
+        color: #FFFFFF;
+        border-radius: 25px;
+        border: none;
+        padding: 10px;
+        display: flex;
+        gap: 10px;
+        align-items: center;
+        font-weight: 600;
+    }
+}
+th{
+    font-size: 12px;
+    text-align: center;
+}
